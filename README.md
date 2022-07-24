@@ -8,7 +8,7 @@
 上記のアカウントで公開されている文章、および [heppokofrontend.dev](https://heppokofrontend.dev) に公開されているコードや文章のすべては、著者に対して予告なく個人が自由に引用・流用できます。  
 ただし、Webコンテンツをよりアクセシブルにすることや、Web技術に関する情報の発信が目的の場合に限ります。
 
-[heppokofrontend.dev](https://heppokofrontend.dev) からリンクされている上記以外のSNS上での発信内容は、各プラットフォームの定める方法によって引用することが可能です。  
+[https://heppokofrontend.dev/index.html](https://heppokofrontend.dev) からリンクされている上記以外のSNS上での発信内容は、各プラットフォームの定める方法によって引用することが可能です。  
 [@heppokofrontend](https://github.com/heppokofrontend)が管理するGitHub上に公開されているソースコードについては、各リポジトリに明記されているライセンスを参照してください。
 
 その他、不明点がありましたら [@kawarabeecma](https://twitter.com/KawarabeEcma) のDMまでお問い合わせください。
