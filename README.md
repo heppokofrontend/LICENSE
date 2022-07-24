@@ -9,7 +9,7 @@
 ただし、Webコンテンツをよりアクセシブルにすることや、Web技術に関する情報の発信が目的の場合に限ります。
 
 上記以外のSNS上での発信内容は、各プラットフォームの定める方法によって引用することが可能です。  
-heppokofrontendが管理する、GitHub上に公開されているソースコードについては、各リポジトリに明記されているライセンスを参照してください。
+[@heppokofrontend](https://github.com/heppokofrontend)が管理するGitHub上に公開されているソースコードについては、各リポジトリに明記されているライセンスを参照してください。
 
 その他、不明点がありましたら [@kawarabeecma](https://twitter.com/KawarabeEcma) のDMまでお問い合わせください。
 
