@@ -9,13 +9,13 @@
 ただし、Webコンテンツをよりアクセシブルにすることや、Web技術に関する情報の発信が目的の場合に限ります。
 
 [https://heppokofrontend.dev/index.html](https://heppokofrontend.dev) からリンクされている上記以外のSNS上での発信内容は、各プラットフォームの定める方法によって引用することが可能です。  
-[@heppokofrontend](https://github.com/heppokofrontend)が管理するGitHub上に公開されているソースコードについては、各リポジトリに明記されているライセンスを参照してください。
+[@heppokofrontend](https://github.com/heppokofrontend) が管理するGitHub上に公開されているソースコードについては、各リポジトリに明記されているライセンスを参照してください。
 
 その他、不明点がありましたら [@EcmaKawarabe](https://twitter.com/EcmaKawarabe) のDMまでお問い合わせください。
 
 -----
 
-なお、@heppokofrontendおよび@kawarabeecma、@EcmaKawarabe関連の発信情報を流用・引用したことによって発生するいかなる損害について、当方は一切の責任を負いかねますのであらかじめご了承ください。  
+なお、@heppokofrontend および @kawarabeecma、@EcmaKawarabe 関連の発信情報を流用・引用したことによって発生するいかなる損害について、当方は一切の責任を負いかねますのであらかじめご了承ください。  
 また、本文書で明記していない「河童エクマ（Kawarabe Ecma）」に関する一切の著作物の流用は認めません。  
 
 
