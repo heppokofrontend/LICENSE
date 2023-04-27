@@ -18,4 +18,4 @@
 なお、@heppokofrontend および @kawarabeecma、@EcmaKawarabe 関連の発信情報を流用・引用したことによって発生するいかなる損害について、当方は一切の責任を負いかねますのであらかじめご了承ください。  
 また、本文書で明記していない「河童エクマ（Kawarabe Ecma）」に関する一切の著作物の流用は認めません。  
 
-
+河童エクマ（Kawarabe Ecma）に関する2次創作ガイドラインはこちらを参照してください：[KawarabeEcma/ecma-guidlines](https://github.com/KawarabeEcma/ecma-guidlines)
